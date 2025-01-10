@@ -3,4 +3,4 @@ First repository
 <br>
 Author : Jignesh Sanghvi
 <br>
-Mt first trial with Github
+My first trial with Github
